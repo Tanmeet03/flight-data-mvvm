@@ -1,0 +1,11 @@
+
+Isquid:S1172C"+Remove this unused method parameter "view".(¿—æ8ıÁĞ-
+squid:S1319ˆ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ºóp8¸ÏœĞ-
+Nsquid:S1172I"+Remove this unused method parameter "view".(³‹‰æüÿÿÿÿ8ıÁĞ-
+Œ"squid:ClassVariableVisibilityCheck%"WMake progressBar a static final constant or non-public and provide accessors if needed.(ï€¸“8ıÁĞ-
+W"squid:SwitchLastCaseIsDefaultCheckw""Add a default case to this switch.(•·§Ÿ8¸ÏœĞ-
+’"squid:ClassVariableVisibilityCheck&"XMake userRecycler a static final constant or non-public and provide accessors if needed.(‡ì§šûÿÿÿÿ8Éà«†Ğ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î¯ï«ıÿÿÿÿ8Éà«†Ğ-
+"squid:ClassVariableVisibilityCheck'"UMake userLabel a static final constant or non-public and provide accessors if needed.(¢Çè±øÿÿÿÿ8Éà«†Ğ-
+’"squid:ClassVariableVisibilityCheck("XMake messageLabel a static final constant or non-public and provide accessors if needed.(ŒÁğİşÿÿÿÿ8Éà«†Ğ-
+Isquid:S1172<"+Remove this unused method parameter "view".(ë¤…Û8ıÁĞ-

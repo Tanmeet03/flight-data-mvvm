@@ -1,0 +1,4 @@
+
+[squid:S3358"DExtract this nested ternary operation into an independent statement.(èÃÁ
+`squid:UselessImportCheck"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8‚ŞˆĞ-
+csquid:UselessImportCheck"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8›ì¤ˆĞ-

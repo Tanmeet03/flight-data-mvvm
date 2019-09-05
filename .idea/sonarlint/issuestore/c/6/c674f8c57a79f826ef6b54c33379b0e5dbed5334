@@ -1,0 +1,8 @@
+
+Esquid:S1948"*Make "providersCode" private or transient.(­Ñå^8 »õïÏ-
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Áş”½şÿÿÿÿ8 »õïÏ-
+;squid:S1700"Rename field "airlineFare"(ÀƒªÔıÿÿÿÿ8éä†ğÏ-
+zsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(äŠÆÒşÿÿÿÿ8£‹ê‡Ğ-
+Ksquid:S1948"(Make "airlineCode" private or transient.(‘ÂÕøøÿÿÿÿ8 »õïÏ-
+Fsquid:S1948"(Make "airportCode" private or transient.(¢»ª˜8 »õïÏ-
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨¶Ö±8 »õïÏ-
